@@ -35,9 +35,9 @@ pip install -r requirements.txt
 ### Goto google cloud console, create a new project, enable places API. Copy API credentials and replace in the project accordingly.
 
 ### Set seach parameters
-location = "37.7749,-122.4194"  # San Francisco coordinates
-radius = 5000  # 5km radius
-keyword = "restaurant"
+location = "37.7749,-122.4194"  # San Francisco coordinates<br>
+radius = 5000  # 5km radius<br>
+keyword = "restaurant"<br>
 
 run your code.
 
